@@ -21,3 +21,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 amassivus.github.io source code
 
 * [amassivus yggdrasil-go fork](https://amassivus.github.io/yggdrasil-go/)
+* [amassivus cjdns fork](https://amassivus.github.io/amassivus.cjdns.github.io/)
